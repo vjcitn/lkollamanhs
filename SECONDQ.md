@@ -33,16 +33,10 @@ across diverse populations and to explore potential mechanisms.
 
 | Feature | Details |
 |---------|---------|
-| **Search strategy** | MEDLINE, Embase, PsycINFO (Jan 1990 – Dec 2018). Search terms: “post‑traumatic stress 
-disorder” OR “PTSD” AND “myocardial infarction”, “heart attack”. |
-| **Study selection** | Prospective cohort or nested case–control studies reporting relative risks (RRs), hazard 
-ratios (HRs), or odds ratios (ORs) for MI among participants with vs. without PTSD. Excluded cross‑sectional, 
-retrospective chart reviews, and animal work. |
-| **Data extraction & quality assessment** | Two reviewers independently extracted data; disagreements resolved by 
-consensus. Quality judged with the Newcastle–Ottawa Scale (NOS). 25 studies met inclusion criteria. |
-| **Statistical synthesis** | Random‑effects meta‑analysis using DerSimonian–Laird method. Pooled RR/HR and OR 
-with 95 % CIs. Heterogeneity assessed by I² statistic. Publication bias evaluated via funnel plot and Egger’s 
-test. |
+| **Search strategy** | MEDLINE, Embase, PsycINFO (Jan 1990 – Dec 2018). Search terms: “post‑traumatic stress disorder” OR “PTSD” AND “myocardial infarction”, “heart attack”. |
+| **Study selection** | Prospective cohort or nested case–control studies reporting relative risks (RRs), hazard ratios (HRs), or odds ratios (ORs) for MI among participants with vs. without PTSD. Excluded cross‑sectional, retrospective chart reviews, and animal work. |
+| **Data extraction & quality assessment** | Two reviewers independently extracted data; disagreements resolved by consensus. Quality judged with the Newcastle–Ottawa Scale (NOS). 25 studies met inclusion criteria. |
+| **Statistical synthesis** | Random‑effects meta‑analysis using DerSimonian–Laird method. Pooled RR/HR and OR with 95 % CIs. Heterogeneity assessed by I² statistic. Publication bias evaluated via funnel plot and Egger’s test. |
 
 ---
 
