@@ -17,6 +17,7 @@ numbers.
 Ok compose summary.
 ...done thinking.
 ```
+
 **O'Donnell ML, et al. 2019 – “Systematic Review of PTSD and Myocardial Infarction Risk”**  
 *Psychosomatic Medicine, 81:1157‑1165*
 
@@ -65,12 +66,9 @@ test. |
 
 | Issue | Observation |
 |-------|-------------|
-| **Heterogeneity** | Moderate–high (I² 48‑62 %). Explored via subgroup analyses: military vs. civilian cohorts, 
-age groups, and study design; residual heterogeneity remained. |
-| **Publication bias** | Funnel plot asymmetry detected; Egger’s test p = 0.04, suggesting small studies with null 
-findings may be under‑reported. |
-| **Confounding** | Most studies adjusted for traditional CVD risk factors (age, sex, smoking, hypertension, 
-dyslipidemia). Few accounted for socioeconomic status or depression, limiting causal inference. |
+| **Heterogeneity** | Moderate–high (I² 48‑62 %). Explored via subgroup analyses: military vs. civilian cohorts, age groups, and study design; residual heterogeneity remained. |
+| **Publication bias** | Funnel plot asymmetry detected; Egger’s test p = 0.04, suggesting small studies with null findings may be under‑reported. |
+| **Confounding** | Most studies adjusted for traditional CVD risk factors (age, sex, smoking, hypertension, dyslipidemia). Few accounted for socioeconomic status or depression, limiting causal inference. |
 
 ---
 
