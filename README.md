@@ -1,5 +1,5 @@
 # lkollamanhs
-README look at gpt-oss:20b
+README look at gpt-oss:20b  **THIS NEEDS TO BE VERIFIED AND MAY INCLUDE HALLUCINATIONS**
 
 ```
 PC002566:~ vincentcarey$ ollama run gpt-oss:20b
