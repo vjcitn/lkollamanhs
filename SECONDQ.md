@@ -1,3 +1,5 @@
+# query posed while off internet ... NEEDS VERIFICATION
+
 >>> Provide a brief summary of O'Donnell ML, et al. Psychosomatic Medicine. 2019;81:1157‑1165 – Systematic review of PTS
 ... D and MI risk.
 Thinking...
@@ -14,7 +16,7 @@ numbers.
 
 Ok compose summary.
 ...done thinking.
-
+```
 **O'Donnell ML, et al. 2019 – “Systematic Review of PTSD and Myocardial Infarction Risk”**  
 *Psychosomatic Medicine, 81:1157‑1165*
 
@@ -107,3 +109,4 @@ O'Donnell et al.’s systematic review demonstrates a robust, dose‑dependent
 occurrence of myocardial infarction—an association independent of traditional risk factors. The findings 
 underscore the necessity for early PTSD detection and integrated treatment strategies to reduce cardiovascular 
 morbidity in this vulnerable population.
+```
